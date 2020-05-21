@@ -1,0 +1,84 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+#title {
+  background-color: blue;
+}
+.container-fluid {
+  padding: 0 15%;
+}
+h1 {
+  padding-top: 5%;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2 {
+  font-weight: 700;
+}
+h3 {
+  font-weight: 400;
+}
+p {
+  color: grey;
+}
+.navbar {
+  margin-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.Intro {
+  text-align: left;
+}
+.download-button {
+  margin: 10% 5% 10% 0;
+}
+.agent-photo {
+  width: 80%;
+}
+
+#AboutMe {
+  padding: 5% 0 10% 0;
+  text-align: center;
+}
+.images {
+  border-radius: 100%;
+}
+.secret-img {
+  width: 41%;
+}
+.single-img {
+  width: 75%;
+}
+.dope-img {
+  width: 78%;
+}
+/* Section 3 Testimonials */
+#life {
+  padding: 5% 15%;
+  background-color: blue;
+  color: white;
+}
+.dog-test {
+  padding: 5%;
+  width: 30%;
+  border-radius: 75%;
+}
+#cta {
+  padding: 2%;
+}
+#footer {
+  padding: 3%;
+}
+.download-but {
+  margin: 2% auto 0 auto;
+}
+.social {
+  padding: 1%;
+}
